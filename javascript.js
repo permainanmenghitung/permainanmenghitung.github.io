@@ -36,7 +36,7 @@ document.getElementById("startreset").onclick = function(){
         hide("gameOver");
         
         //change button to reset
-        document.getElementById("startreset").innerHTML = "Reset Game";
+        document.getElementById("startreset").innerHTML = "Ulang Game";
         
         //start countdown
         
